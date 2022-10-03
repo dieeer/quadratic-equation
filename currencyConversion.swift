@@ -1,4 +1,4 @@
-// declaring currency we have in poession
+// declaring currency we have in posession
 var pesos: Double = 400
 var reals: Double = 50
 var sols: Double = 100
